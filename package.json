@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "pytket-circuit-renderer": "^0.10.6",
-    "vue": "^3.2.45"
+    "vue": "^3.5.43"
   },
   "name": "pytket-offline-display",
   "description": "## Circuit renderer component from within pytket.",
